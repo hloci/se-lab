@@ -1,4 +1,4 @@
-(https://github.com/hloci/se-lab/actions/workflows/maven.yml)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # SE Spaceship
