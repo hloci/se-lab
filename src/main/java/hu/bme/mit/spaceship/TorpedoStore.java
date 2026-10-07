@@ -65,3 +65,4 @@ public class TorpedoStore {
     return this.torpedoCount;
   }
 }
+// implemented requested changes
